@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Moon, Sun, Info, Settings, HelpCircle } from 'lucide-react'
+import { Moon, Sun } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { useTheme } from '@/components/theme-context'
 import { useAnalysisContext } from './Result-context'
