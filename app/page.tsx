@@ -1,3 +1,4 @@
+"use client"
 import ChatInput from '../components/Chat-Input'
 import MainHeading from '../components/Main-heading'
 import { AnalysisProvider } from '../components/Result-context'
